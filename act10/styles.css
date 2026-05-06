@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    box-sizing: border-box;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color:#1d1c1c;
+}
+
+.container {
+    display: block;
+    padding: 40px;
+    background-color: #ebebeb;
+    border-radius: 5px;
+    width: 250px;
+    border: 2px solid #b6b6b6;
+}
+
+button {
+    background-color: #a2aaa3;
+    color:white;
+    border: 3px inherit;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 15px;
+}
+
+    button:hover {
+        background-color: #6c7c6f;
+        color: white;
+        cursor: pointer;
+    }
